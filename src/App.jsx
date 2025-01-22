@@ -10,9 +10,9 @@ function App() {
   return (
     <Alert>
       <Terminal className="h-4 w-4" />
-      <AlertTitle>Heads up!</AlertTitle>
+      <AlertTitle>That was just a test</AlertTitle>
       <AlertDescription>
-        You can add components to your app using the cli.
+        We will add some additional components soon 👀
       </AlertDescription>
     </Alert>
   )
