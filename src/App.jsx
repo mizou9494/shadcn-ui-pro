@@ -5,6 +5,10 @@ import {
   AlertDescription,
   AlertTitle,
 } from "@/components/ui/alert"
+
+import {
+  Button
+} from "@/components/ui/button"
 function App() {
 
   return (
@@ -14,6 +18,7 @@ function App() {
       <AlertDescription>
         We will add some additional components soon 👀
       </AlertDescription>
+       <Button>Click me</Button>
     </Alert>
   )
 }
