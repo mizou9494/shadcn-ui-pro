@@ -19,7 +19,7 @@ function App() {
         <AlertDescription>
           We will add some additional components soon 👀
         </AlertDescription>
-        <Button className="mt-4 p-8 hover:bg-slate-50 hover:text-slate-900 focus:outline-none" variant="destructive">Click me</Button>
+        <Button className="mt-4 p-8 hover:bg-slate-150 hover:text-slate-900 focus:outline-none focus:bg-yellow-500 focus:text-black-50" variant="destructive">Click me</Button>
       </Alert>
     </div>
   )
