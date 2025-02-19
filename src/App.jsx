@@ -12,8 +12,8 @@ import {
 function App() {
 
   return (
-    <div className="w-screen grid place-content-center h-screen bg-cyan-200 relative">
-      <div className="absolute top-0 left-0 w-screen h-10 bg-slate-400 text-black px-2 py-1">
+    <div className="w-screen text-3xl grid place-content-center h-screen bg-cyan-200 relative">
+      <div className="absolute top-5 left-0 w-screen h-10 bg-slate-400 text-black px-2 py-1">
         <h2>hey</h2>
       </div>
       <Alert className='h-full w-full bg-slate-300 grid place-content-center '>
